@@ -1,0 +1,6 @@
+c:\users\dmitry\documents\visual studio 2015\Projects\TextFormatter\TextFormatter\bin\Debug\TextFormatter.exe.config
+c:\users\dmitry\documents\visual studio 2015\Projects\TextFormatter\TextFormatter\bin\Debug\TextFormatter.exe
+c:\users\dmitry\documents\visual studio 2015\Projects\TextFormatter\TextFormatter\bin\Debug\TextFormatter.pdb
+c:\users\dmitry\documents\visual studio 2015\Projects\TextFormatter\TextFormatter\obj\Debug\TextFormatter.csprojResolveAssemblyReference.cache
+c:\users\dmitry\documents\visual studio 2015\Projects\TextFormatter\TextFormatter\obj\Debug\TextFormatter.exe
+c:\users\dmitry\documents\visual studio 2015\Projects\TextFormatter\TextFormatter\obj\Debug\TextFormatter.pdb
